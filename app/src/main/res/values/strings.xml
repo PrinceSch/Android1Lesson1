@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android1_less1</string>
+    <string name="textView">Hello Stonehenge!</string>
+    <string name="edit_text">edit text</string>
+    <string name="button">I\'m the Button!</string>
+    <string name="theSwitch">I am the switch!</string>
+    <string name="aCheckbox">That\'s a chechbox</string>
 </resources>
