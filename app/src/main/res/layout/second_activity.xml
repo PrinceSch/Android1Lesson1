@@ -38,4 +38,9 @@
         android:layout_height="wrap_content"
         android:inputType="textWebEditText"/>
 
+    <CalendarView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minDate="01/01/2021" />
+
 </LinearLayout>
